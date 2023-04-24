@@ -30,7 +30,7 @@ export default function DashboardAppPage() {
   return (
     <>
       <Helmet>
-        <title> Dashboard | Minimal UI </title>
+        <title> Dashboard Smart Home </title>
       </Helmet>
 
       <Container maxWidth="xl">
