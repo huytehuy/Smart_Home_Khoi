@@ -3,8 +3,8 @@ import { Navigate, useRoutes } from 'react-router-dom';
 import DashboardLayout from './layouts/dashboard';
 import SimpleLayout from './layouts/simple';
 //
-// import BlogPage from './pages/BlogPage';
-import BlogPage from '../public/favicon/favicon.ico';
+import BlogPage from './pages/BlogPage';
+// import BlogPage from '../public/favicon/favicon.ico';
 import UserPage from './pages/UserPage';
 import LoginPage from './pages/LoginPage';
 import Page404 from './pages/Page404';
